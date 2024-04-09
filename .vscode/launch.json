@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (iPhone 15 Pro Max)",
+            "program": "lib/main.dart",
+            "deviceId": "A678E669-47EE-4400-89AF-3F906FAC9E2B",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
